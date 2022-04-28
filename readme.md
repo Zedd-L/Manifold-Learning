@@ -6,7 +6,7 @@ sklearn带有的manifold结果如下
 
 自实现结果
 
-<img src="\pic\3.png" alt="3" style="zoom:72%;" />
+<img src="pic\3.png" alt="3" style="zoom:72%;" />
 
 ## todo
 
